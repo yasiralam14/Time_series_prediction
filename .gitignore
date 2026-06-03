@@ -24,6 +24,7 @@ checkpoints/
 wandb/
 runs/
 logs/
+outputs/
 
 .DS_Store
 Thumbs.db
